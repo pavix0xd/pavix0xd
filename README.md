@@ -22,8 +22,13 @@
 - :school: I am a `Undergraduate` at [Informatics Institute of Technology - School of Computing](https://www.iit.ac.lk/computing/) affiliated with [University of Westminister](https://www.westminster.ac.uk/)
 - :technologist: **Currently working on** `Web Development (Full-Stack)` **&** `Mobile App Development`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=pavix0xd&amp;color=EA4335&amp;style=flat-square)](mailto:minindupavith20@gmail.com)
+  - **Contact me**:
+    - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/minindu.pavith.9/)
+    - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/pavix.___/)
+    - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/minindu-suriyapperuma)
 - :nerd_face: just call me `"pavix"`
 - 🪬 "Fluido en Silencio"
+
 <br>
 
 ## 🛠️ TECH STACK
