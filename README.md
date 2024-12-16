@@ -21,7 +21,7 @@
 
 - :school: I am a `Undergraduate` at [Informatic Institute of Technology - School of Computing](https://www.iit.ac.lk/computing/) affiliated with [University of Westminister](https://www.westminster.ac.uk/)
 - :technologist: **Currently working on** `Web Development (Full-Stack)` **&** `Mobile App Development`
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:minindupavith20@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=pavix0xd&amp;color=EA4335&amp;style=flat-square)](mailto:minindupavith20@gmail.com)
 - :nerd_face: just call me `"pavix"`
 - 🪬 "Fluido en Silencio"
 <br>
@@ -83,14 +83,14 @@
 
  <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ElioChiu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=pavix0xd&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <br>
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=ElioChiu&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pavix0xd&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
