@@ -19,7 +19,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Undergraduate` at [Informatic Institute of Technology - School of Computing](https://www.iit.ac.lk/computing/) affiliated with [University of Westminister](https://www.westminster.ac.uk/)
+- :school: I am a `Undergraduate` at [Informatics Institute of Technology - School of Computing](https://www.iit.ac.lk/computing/) affiliated with [University of Westminister](https://www.westminster.ac.uk/)
 - :technologist: **Currently working on** `Web Development (Full-Stack)` **&** `Mobile App Development`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=pavix0xd&amp;color=EA4335&amp;style=flat-square)](mailto:minindupavith20@gmail.com)
 - :nerd_face: just call me `"pavix"`
