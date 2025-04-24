@@ -95,7 +95,7 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=pavix0xd&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=pavix0xd&abbreviated=true)
 
 </div>
 
