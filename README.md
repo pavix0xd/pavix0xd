@@ -99,5 +99,5 @@
 
 </div>
 
-<a href="https://u8views.com/github/pavix0xd"><img src="https://u8views.com/api/v1/github/profiles/155466026/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/pavix0xd">&nbsp&nbsp<img src="https://u8views.com/api/v1/github/profiles/155466026/views/day-week-month-total-count.svg"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
