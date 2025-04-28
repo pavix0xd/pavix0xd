@@ -12,7 +12,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> It'z Minindu! 
 <br /> 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Hey+there!+Minindu+here.;Full+Stack+Web+Developer.;Passionate+about+Technology.;Avid+Gamer+and+Explorer.;Welcome+to+my+GitHub!"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Hey+there!+Minindu+here.;Full+Stack+Web+Developer.;Passionate+Technology+Enthusiast.;Gamer+and+Explorer.;Welcome+to+my+GitHub!"/>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
