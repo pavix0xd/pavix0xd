@@ -91,6 +91,8 @@
   </tr>
 </table>
 
+<br/>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pavix0xd&theme=onestar&row=1&column=7">
 </p>
