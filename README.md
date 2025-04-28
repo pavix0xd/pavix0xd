@@ -78,20 +78,27 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=pavix0xd&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pavix0xd&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=pavix0xd&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
- </p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/pavix0xd">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavix0xd&theme=blueberry&layout=compact" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pavix0xd&show_icons=true&theme=blueberry" width="400">
+    </td>
+  </tr>
+</table>
 
- <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=pavix0xd&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pavix0xd&theme=onestar&row=1&column=7">
+</p>
 <br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavix0xd&theme=github-dark&hide_border=true">
+</p>
 
 <div align="center">
 
